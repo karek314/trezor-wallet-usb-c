@@ -8,3 +8,7 @@ Please take a look on my forked repository https://github.com/karek314/trezor-mc
 
 https://github.com/karek314/trezor-mcu/commit/34a081e032af5fc5d0f006adb6f7bec5c789feb8
 Function random32() caused infinite loop preventing device from starting.
+
+![](https://github.com/karek314/trezor-wallet-usb-c/blob/master/board_1.2-usb-c_bottom.png?raw=true)
+![](https://github.com/karek314/trezor-wallet-usb-c/blob/master/board_1.2-usb-c_top.png?raw=true)
+![](https://github.com/karek314/trezor-wallet-usb-c/blob/master/trezor_v1.2-USB-C_sch.png?raw=true)
